@@ -32,6 +32,16 @@ This sensing module was developed with a focus on the compliant structure and sk
 **Authors: [Thiago Eustaquio Alves de Oliveira](https://www.linkedin.com/in/teado/), talvesd@lakeheadu.ca and [Vinicius Prado da Fonseca](https://www.cs.mun.ca/~vpradodafons/), vpradodafons@mun.ca**
 
 **Affiliation: Department of Computer Science, [Lakehead University](https://www.lakeheadu.ca/), Canada; Department of Computer Science [Memorial University of Newfoundland](https://www.mun.ca/), Canada**
+## Wiring
+- 5v for the mutliplexer
+- 3v for the sensors
+- pin 12 teensy -> S0
+- pin 11 teensy -> s1
+- pin 10 teensy -> s2
+- pin 09 teensy -> s3
+- scl (clk) -> yellow wires
+- sda (data) -> geeen wires
+
 
 ## Installation
 - Before do this, please backup important files.
