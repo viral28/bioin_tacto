@@ -39,8 +39,8 @@ This sensing module was developed with a focus on the compliant structure and sk
 - pin 11 teensy -> s1
 - pin 10 teensy -> s2
 - pin 09 teensy -> s3
-- scl (clk) -> yellow wires
-- sda (data) -> geen wires
+- SCL (clk) -> yellow wires
+- SDA (data) -> green wires
 
 
 ## Installation
